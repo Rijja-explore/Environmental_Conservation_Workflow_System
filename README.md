@@ -37,6 +37,12 @@ It serves as a lightweight and scalable solution for eco-project oversight and r
   - `datetime`
 
 ---
+## 📸 Screenshots
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/1cac419e-02ee-4e6e-bdb7-5f37b5bcc790" />
+<img width="1908" height="861" alt="image" src="https://github.com/user-attachments/assets/0dc17a42-c267-43cc-95f5-2b10fb465591" />
+<img width="1916" height="863" alt="image" src="https://github.com/user-attachments/assets/76e69112-a0f7-4785-9273-2f59de4d360c" />
+
+
 
 ## Requirements
 
